@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Estudiante de Ingeniería de Sistemas<br>🌱 Actualmente aprendiendo: JAVA, C++, C# and .NET<br>🎨 Interesado en: Aprender mas sobre aplicaciones web.<br>💡 Mi meta: Crear aplicaciones web funcionales.
+🎓 Estudiante de Ingeniería de Sistemas<br>🌱 Conocimiento en: JAVA, C++, C# and .NET<br>🎨 Interesado en: Aprender mas sobre aplicaciones web.<br>💡 Mi meta: Crear aplicaciones web funcionales.
 
 
 # 💻 Tech Stack:
